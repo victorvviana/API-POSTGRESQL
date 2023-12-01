@@ -8,5 +8,5 @@ func main() {
 }
 
 func falar(s string) string {
-	return s
+	return s + "Teste"
 }
